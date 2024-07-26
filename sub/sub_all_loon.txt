@@ -1,8 +1,5 @@
 https://sub1.tg-mfjd666.cloudns.be/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0fd3
-https://subs.zeabur.app/clash
 https://api1.danidapigu.top/api/v1/client/subscribe?token=e1625b3640ff08f0dafb07e0360c6bf7
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://syynweb.shop/api/v1/client/subscribe?token=f8c376caa12b91d4d8a0c54204c169fc
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://www6.1st-subscription-from-chickenfarmer.top/api/v1/client/subscribe?token=2f68b0e25658abb134c8be8b59cf0faf
+https://ap.niaodi.top/niao?token=cdaa1b1f44005a4ed020ea98e001d0c5
