@@ -1,9 +1,7 @@
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
-https://47.242.186.70/api/v1/client/subscribe?token=df57a404bcbd43c807d55f95377bb32a
-https://api.xtt777.com/subscribe/65720/bsMGuVVI03/clash/
-https://cdn1711437153.ppgnginx.com/api/v1/client/subscribe?token=37536af5f39e95dc9aed38399fac8ad4
-https://dy.ssysub6.xyz/api/v1/client/subscribe?token=3635e556c43026801256171024ff23de
-https://dzpd.jiedianxielou.workers.dev/?clash=1
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
+https://cm.qc77.cn/api/v1/client/subscribe?token=77e2472392c27747dcb216d397aaad71
+https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://sub3.huy.0.srl/api/v1/client/subscribe?token=40e146f502060f8eeb2becbae270f1be
+https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://syyn.ianong.cn/api/v1/client/subscribe?token=c18551e475b956e1c7085827c7305e9e
