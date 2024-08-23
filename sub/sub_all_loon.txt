@@ -1,5 +1,4 @@
-https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev
-https://cloud.asdkd.top//link/Gjv67p0oYsGI7J3c?sub=3
+https://sus.alicenetwork.cloud/api/v1/client/subscribe?token=a14b2a56419338cc779b70ba6d41cd68
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+http://ciallo.elegy.icu:7001/api/v1/client/subscribe?token=cdd2fe8c61c6faee53b0caca6b5123f3
