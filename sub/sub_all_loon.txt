@@ -1,6 +1,7 @@
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
+https://sus.alicenetwork.cloud/api/v1/client/subscribe?token=7408c5a83d345c7518d7c53715de9d81
+http://dishujichang.xyz/api/v1/client/subscribe?token=6b21c7b1788c1c179bbeadc7ba40b001
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
-https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=ac6302bb615db969a96dc5fcfe4e98e7
-https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://jlhcloud.us.kg/api/v1/client/subscribe?token=7f6d50b947f081ddaaf77a2ab75379f5
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
