@@ -56,6 +56,8 @@ https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
 https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
 https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
 https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;amp;flag=meta
+https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;flag=meta
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 
 
