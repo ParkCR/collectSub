@@ -1,7 +1,6 @@
 -- play_list --
 
 
-https://cdn-web-api.moeu.top/api/v1/client/subscribe?token=2f0e724f9b0be6a6028d3b358bfca666
 https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
@@ -12,6 +11,7 @@ https://mydy.xlm.plus/api/v1/client/subscribe?token=0c7874fe355c92c1ca0b80499ecf
 https://mydy.xlm.plus/api/v1/client/subscribe?token=2394b7914923c56721f7d27c3689f74f
 https://mydy.xlm.plus/api/v1/client/subscribe?token=50c4667e9520358330737c6307dfdb52
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
+https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=1fa121960be5d6fbdf78f2207d9c5f1e
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://subs.zeabur.app/clash
 https://cdn.fraternizey.com/api/v1/client/subscribe?token=de6452de3a631d1006da3981fef4430a
