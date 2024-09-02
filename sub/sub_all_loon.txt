@@ -1,5 +1,7 @@
 https://ktmcloud.me/api/v1/client/subscribe?token=3a9ff76baff1e6b22b5f42c384357b4b
-https://subs.zeabur.app/clash
-https://sux.lol/api/v1/client/subscribe?token=9fc17efd14cac41e0bfdd6ae7ee96dd9
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=ac6302bb615db969a96dc5fcfe4e98e7
+https://mc.jiedianxielou.workers.dev/
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
+https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;flag=meta
