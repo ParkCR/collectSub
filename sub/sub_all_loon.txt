@@ -1,7 +1,6 @@
-https://mc.jiedianxielou.workers.dev
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://cloudcat.top/api/v1/client/subscribe?token=b0de12ff45cf936afeb0aae0acec0920
-https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://sub3.gfw.gg/api/v1/client/subscribe?token=fc9086228dc6d47c1ca815b23157e0e5
+https://subs.zeabur.app/clash
+https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
