@@ -1,7 +1,8 @@
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
 https://sub4.gfw.gg/api/v1/client/subscribe?token=0270aa09edcff7d6c76b0b7ca7aad745
-https://mc.jiedianxielou.workers.dev/
-https://subs.zeabur.app/clash
+https://cloudcat.top/api/v1/client/subscribe?token=b0de12ff45cf936afeb0aae0acec0920
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
 https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;amp;flag=meta
