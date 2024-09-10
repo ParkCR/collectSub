@@ -1,12 +1,4 @@
-https://api.xinyo.vip/api/v1/client/subscribe?token=d9063e2f55e2c52c1ecb0279c25de3bd
-https://dzpd.jiedianxielou.workers.dev/?clash=1
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=239bf6f70499ff0f80ca081f0a831d04
-https://k61kz.no-mad-world.club/link/lZnnLLD3WHfMrM40?clash=3&amp;extend=1
-https://link02.pikachucloud.site/api/v1/client/subscribe?token=928d0cf2c229c97f106fe6edcbd4c319
-https://mc.jiedianxielou.workers.dev
-https://mo.mojieurl.com/api/v1/client/subscribe?token=9ad15bbfc9b8dc881009a125f14f22aa
-https://ninjasub.com/link/XuJjIoZPaC1puYCe?clash=1
-https://service-avmn443l-1312645837.sh.apigw.tencentcs.com/api/v1/client/subscribe?token=d1d3c683c469abfe5a0d7d4ec92903d0
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
-https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
-https://xcyun.co/xe45lgf21?token=b0e4156ad42a2be48ca1f35ea73bee7e
+https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://sus.alicenetwork.cloud/api/v1/client/subscribe?token=819989e04f35b7479785023008386c5d
+https://wm01dy.wmyun.men/api/v1/client/subscribe?token=c91d2a7db727bb5cb0586e654f3d0948
+https://www.ginfem.com/link/J9AHBgJkY0YkRQwM?clash=1
