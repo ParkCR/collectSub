@@ -1,9 +1,9 @@
-https://mojie.app/api/v1/client/subscribe?token=0ce896d17bde60480c9e1a8bb540b29e
-https://mc.jiedianxielou.workers.dev
-https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://service-6l9168iy-1312645837.gz.apigw.tencentcs.com/api/v1/client/subscribe?token=50cce61874b985c0c99e50c6f659f20e
-https://syyn.xyz/api/v1/client/subscribe?token=8c1261d3e0b3409af7a4baa3a9e645e3
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=8ecf59b49c4a8893221934d0fc2c1986
+https://dy.smjc.top/api/v1/client/subscribe?token=c0d7961b030f6a2b794424d16042a2a7
+https://dzpd.jiedianxielou.workers.dev/?clash=1
+https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
+https://s1.iajsy.lol/api/v1/client/subscribe?token=95ff71c2f98cc4e3a5eb97ee4d80988e
+https://sus.alicenetwork.cloud/api/v1/client/subscribe?token=819989e04f35b7479785023008386c5d
+https://www.dabai.in/link/qrWBdYEZPKr61KkM?list=shadowrocket
 https://xcyun.co/xe45lgf21?token=b0e4156ad42a2be48ca1f35ea73bee7e
-https://cloud.yydschina.top/api/v1/client/subscribe?token=7783d526d0858c934f3e424b8c25f5e2
