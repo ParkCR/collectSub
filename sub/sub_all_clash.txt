@@ -1,8 +1,9 @@
-https://board.nsde.date/api/v1/client/subscribe?token=84e28dd2b42173a927d7e39896350cdd
-https://jp.taishan1.pro/api/v1/client/subscribe?token=decbd7dd37b24d65a43b4bf05da2cdf9
-https://mc.jiedianxielou.workers.dev/
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
-https://service-6l9168iy-1312645837.gz.apigw.tencentcs.com/api/v1/client/subscribe?token=50cce61874b985c0c99e50c6f659f20e
-https://syyn.xyz/api/v1/client/subscribe?token=1b49383898b23801b5965869a6cb12d7
-https://time1721057549.nginxcaiyun.xyz/api/v1/client/subscribe?token=0b02e082e6dddee3f782213be16674d0
+https://api-zz.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=3df39719aadc30954859a312a7715447
+https://config.huojian111.com/link/57BXs2kcnyMZ1sJ3?sub=3
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=239bf6f70499ff0f80ca081f0a831d04
+https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
+https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://qingchayun.icu/api/v1/client/subscribe?token=80418297fba5a4f4ac7f21cdcf847e6d
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://tokenapi.fbcloud.lol/api/v1/client/subscribe?token=a4d36cac7f44e35225657f53008bc4ae
