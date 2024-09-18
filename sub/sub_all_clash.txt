@@ -1,4 +1,5 @@
-https://api1.fzdwf.top/api/v1/client/subscribe?token=67706c7a66b91ab14742f3e54771037f
-https://s1.iajsy.lol/api/v1/client/subscribe?token=95ff71c2f98cc4e3a5eb97ee4d80988e
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://su-b.yun.cat/api/v1/client/subscribe?token=75e8a0dfe32733a947ea0a526ba26fc2
+https://17852.xyz/api/v1/client/subscribe?token=340ea2540b69f18325e6f32aaa5fe1cc
+https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzl0dE5SK3M5Nk84Tkp2T2M0YW1jVk02d0FxbmQ2Q3l5UGF3QkJhUW1CUHNTSzNhOXJmMDFHcXJ4NE51VGpsaVlwMGgzbUgvT1pLQkRMTUhRS2xwYnFEVUNtMzN5OTBabEhwRVE9PQ
+https://mlshu.xyz/api/v1/client/subscribe?token=4cabd6f21f4ae9dda02f1be1753f0fdb
+https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
