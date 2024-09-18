@@ -1,10 +1,4 @@
-https://api.acaisbest.shop/api/v1/client/subscribe?token=ea7046282fc195883735eb31b9cbc8f4
-https://api.xinyo.vip/api/v1/client/subscribe?token=bb57e2195a6cabe24ed9469b3669aa0d
-https://mc.jiedianxielou.workers.dev
-https://ng.69hub.cc/api/v1/client/subscribe?token=aac6c97c11763e9f663a4cca6b98f7fc
-https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=18badde75f3248c19093a35ddee68b52
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
-https://sub.tku2.com/api/v1/client/subscribe?token=f42471e1da8b5ad07bcd676415c03f09
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=c3159a08ec178eadb8fa89ee5700dd03
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://api1.fzdwf.top/api/v1/client/subscribe?token=67706c7a66b91ab14742f3e54771037f
+https://s1.iajsy.lol/api/v1/client/subscribe?token=95ff71c2f98cc4e3a5eb97ee4d80988e
+https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://su-b.yun.cat/api/v1/client/subscribe?token=75e8a0dfe32733a947ea0a526ba26fc2
