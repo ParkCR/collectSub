@@ -1,8 +1,8 @@
-http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
-https://20240802.canadapost-vip.com/api/v1/client/subscribe?token=fa95a8fed800ed6f4a9e5f82493b0bf8
-https://api.xinyo.vip/api/v1/client/subscribe?token=d9063e2f55e2c52c1ecb0279c25de3bd
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
-https://dzpd.jiedianxielou.workers.dev/?clash=1
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzlqdnBCdThOZUx1b2xoT1loVW41MU0vbDFzbTl5ZmdUN2JqUkJNVW5wT3BuU2hZWTdPMGdmN28wRmN2enExMjR0ejBTU0gvZVllQ1RLWkhRVHpyN0tIV2kyMjBpNGdNQT09
+https://api1.fzdwf.top/api/v1/client/subscribe?token=67706c7a66b91ab14742f3e54771037f
+https://l.db-link01.top/link/1H9b3ZbQHuRbeGUP?clash=1
+https://mro5n.no-mad-world.club/link/5sXDluQT5cSVGrSF?clash=3&amp;extend=1
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://service-fy4hli0a-1312645837.nj.apigw.tencentcs.com/api/v1/client/subscribe?token=6f4ee12ffa3d2ea32e0a2361833025fe
+https://subscribe.insidergame.xyz/api/v1/client/subscribe?token=b8c7f5d1cec04b203b0e8f50c6c56a3c
