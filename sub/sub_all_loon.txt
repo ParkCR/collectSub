@@ -1,6 +1,3 @@
-https://mc.jiedianxielou.workers.dev/
-https://api.xinyo.vip/api/v1/client/subscribe?token=5a563d7330dd13ce16ec909ea4257548
-https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
-https://mc.jiedianxielou.workers.dev
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://k61kz.no-mad-world.club/link/lZnnLLD3WHfMrM40?clash=3&amp;extend=1
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://12123.org/api/v1/client/subscribe?token=758b131f7985f3fd39552d9893e579cc
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
