@@ -1,3 +1,4 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://12123.org/api/v1/client/subscribe?token=758b131f7985f3fd39552d9893e579cc
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://gbtgurl.me/api/v1/client/subscribe?token=546e4735dbf123f782dad5c4729369da
+https://api.xinyo.vip/api/v1/client/subscribe?token=bb57e2195a6cabe24ed9469b3669aa0d
+https://mc.jiedianxielou.workers.dev
+https://api.xinyo.vip/api/v1/client/subscribe?token=d9063e2f55e2c52c1ecb0279c25de3bd
