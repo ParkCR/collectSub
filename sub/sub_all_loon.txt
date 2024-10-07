@@ -1,6 +1,3 @@
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://z.upk.icu/apk/go/client/banzou?token=9c29d262d5ffa7b0cfef2b30c6cfb317
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
-https://free.ninecloud.co/api/v1/client/subscribe?token=afe275d64d5b2295be847cf4fafe5428
+https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://mc.jiedianxielou.workers.dev/
+https://subs.zeabur.app/clash
