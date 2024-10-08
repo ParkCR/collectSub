@@ -1,5 +1,4 @@
-http://6b.zhunchuanpb.com/api/v1/client/subscribe?token=4e535a0fa62acb50f2fda66a8d48e8ed
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://haitunfree.luodaifan.top/haitunfree
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://dd.csjc.win/api/v1/client/subscribe?token=5791161d7d526f6155f4b3cc5a15a162
+http://6b.zhunchuanpb.com/api/v1/client/subscribe?token=4e535a0fa62acb50f2fda66a8d48e8ed
