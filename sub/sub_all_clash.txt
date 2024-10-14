@@ -1,7 +1,8 @@
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://sub.vpntz.com/api/v1/client/subscribe?token=cc517021f7453860191454e111455507
-https://subs.zeabur.app/clash
-https://ttc01.xyz/api/v1/client/subscribe?token=de369ae7689b67e8cc6267ea5b020372
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://api-zz.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=3df39719aadc30954859a312a7715447
+https://bajie.info/api/v1/client/subscribe?token=1d51c1d2d9039efb3ef7ddac6d2c52e3
+https://gbtgurl.me/api/v1/client/subscribe?token=546e4735dbf123f782dad5c4729369da
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
+https://mo.mojieurl.com/api/v1/client/subscribe?token=9ad15bbfc9b8dc881009a125f14f22aa
+https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
+https://qyoo.aibvs.cn/api/v1/client/subscribe?token=d1238234772e17cc53229bcbb74980ed
+https://sub.nodeup.top/IBMQR/MXW62/JK?token=6545aa6679126b0b30fdc33a4fe5183a
