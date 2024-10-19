@@ -1,8 +1,9 @@
-https://bajie.info/api/v1/client/subscribe?token=1d51c1d2d9039efb3ef7ddac6d2c52e3
-https://free.ninecloud.co/api/v1/client/subscribe?token=afe275d64d5b2295be847cf4fafe5428
-https://jixingnetwork.sbs/api/v1/client/subscribe?token=bb6c1f203b9e3e565125f3b78c611794
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
-https://subscribe.insidergame.xyz/api/v1/client/subscribe?token=b8c7f5d1cec04b203b0e8f50c6c56a3c
-https://xs.mashiroshina.top/api/v1/client/subscribe?token=307cc562689201ef52ffde46732b6b9d
+https://17852.xyz/api/v1/client/subscribe?token=340ea2540b69f18325e6f32aaa5fe1cc
+https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0xx8yFuq4uZwo0d6f0fKq4tDshF8KYLaXbReQeHesu36j9DY4YtkU96pii94VYsuogt1E9PK0LTKdv4mhRkTG80vrylw
+https://gbtgurl.me/api/v1/client/subscribe?token=546e4735dbf123f782dad5c4729369da
+https://ipngc.no-mad-world.club/link/nnaCD6oVR3L5GrBq?shadowrocket=1
+https://mc.jiedianxielou.workers.dev
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://sub.nodeup.top/IBMQR/MXW62/JK?token=6545aa6679126b0b30fdc33a4fe5183a
+https://subscription-gov.lianjiasub.work/api/v1/client/subscribe?token=d11a89780236b657d6de7b055ffe6f63
+https://user.1vpn.sbs/api/v1/client/subscribe?token=6f5241982cdfdc7dbe0bbcc381e8b7da
