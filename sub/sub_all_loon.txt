@@ -1,6 +1,4 @@
-http://ly.ccwink.cc/api/v1/client/subscribe?token=74faf7ece2277eb094d5709e05ca1986
-https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://wEHx49R5Z4CJWf9iNF0r.yun.cat/api/v1/client/subscribe?token=dfd21059daf684a974024add8e883512
+https://www.cwy-water.us.kg/api/v1/client/subscribe?token=daa0f9c43c5b7f91a08aee21dab0138c
+https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
