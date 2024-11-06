@@ -1,5 +1,6 @@
-https://nuonuonet.uk/api/v1/client/subscribe?token=96a57e2c509347ae3eacc1d25326b933
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
-https://hongxingdl.com/hxvip?token=75540cdc521f31aa0df46a6fa73be722
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://mc.jiedianxielou.workers.dev/
+https://subs.zeabur.app/clash
+https://hongxingdl.com/hxvip?token=f1c9d67d69add8b03f8ef8613caec477
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
