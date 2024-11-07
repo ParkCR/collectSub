@@ -1,9 +1,9 @@
-https://api.fenghuolun.xyz/api/v1/client/subscribe?token=a9236b831f8019a4914004d9dabca481
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=0760bb28173ccd9e23439f0fb97f834b
 https://api.fenghuolun.xyz/api/v1/client/subscribe?token=5524b09a0c31c745b208a95daa2fc1f5
-https://mc.jiedianxielou.workers.dev/
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=a9236b831f8019a4914004d9dabca481
+https://mc.jiedianxielou.workers.dev
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://api.fenghuolun.xyz/api/v1/client/subscribe?token=113ea211f3a4c0810ba9cc30ff9436d6
-https://api.fenghuolun.xyz/api/v1/client/subscribe?token=6ea1bb60db4923beb1bb0214524aa652
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
