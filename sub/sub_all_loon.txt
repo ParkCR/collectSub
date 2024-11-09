@@ -1,8 +1,4 @@
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
-https://dd.moonriver.cfd/api/v1/client/subscribe?token=2f357d08492582d684f8493f1aa0967c
-https://ss.81dlg.com/dy/ss?token=ccd4d26cbbb9f3251034e2b7eb51e384
-https://ss.81dlg.com/dy/ss?token=d95165e97d96980b87342d4d3fbc01d8
-https://smallairport-first-sub.top/api/v1/client/subscribe?token=accedcd63928dbc35bd6223ebe7f446f
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
-https://www.cwy-water.us.kg/api/v1/client/subscribe?token=daa0f9c43c5b7f91a08aee21dab0138c
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://gbtgurl.me/api/v1/client/subscribe?token=3f6db7017f0d251d7d156a114a48a4ee
+https://ac59a7cd-11af-3e35-a098-b785688ec627.aliyunsub.com/link/1DswsoSCjJpogBnA?sub=3&amp;extend=1
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
