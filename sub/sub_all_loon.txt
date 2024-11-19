@@ -1,4 +1,6 @@
 https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
-https://ss.81dlg.com/dy/ss?token=c0c344484f2e4643cd72e7e438cdb5ad
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz/api/v1/client/subscribe?token=d3065c795c0ea07c325756a2515708d9
+https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
