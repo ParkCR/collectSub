@@ -1,5 +1,5 @@
-https://sub1.jiatelin.cyou/api/v1/client/subscribe?token=fa5f8fbbf4612457bce2411d06c8c3d5
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://a.aikllc.tech/api/v1/client/subscribe?token=bb0b4de5961dc7baf37398cc24c45eb7
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
