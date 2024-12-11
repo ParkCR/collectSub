@@ -1,10 +1,2 @@
-http://gbtgurl01.org/api/v1/client/subscribe?token=6ffdb23ecb80f2976136b2328bd8accd
-https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0xx8yFuq4uZwo0d6f0fKq4tDshF8KYLaXbReQeHesu36j9DY4YtkU96pii94VYsuogt1E9PK0LTKdv4mhRkTG80vrylw
-https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
-https://gbtgurl.me/api/v1/client/subscribe?token=01187f2b47200eb4794f3cb803666494
-https://www.kuaidog008.top/api/v1/client/subscribe?token=daf0a00c2fb6f609d816597f4c2bda51
-https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
-https://pqjc.site/api/v1/client/subscribe?token=5d5da3b602584a2760827e7fd0fd34e7
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
-https://ss.81dlg.com/dy/ss?token=45814b8e5d31528a5fbbaee4d156c8d8
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://mojie.app/api/v1/client/subscribe?token=0ce896d17bde60480c9e1a8bb540b29e
+https://pqjc.site/api/v1/client/subscribe?token=3a7b03ae2964652eedc6afab23a4a86c
