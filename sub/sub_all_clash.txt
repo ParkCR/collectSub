@@ -1,9 +1,7 @@
-https://1ytcom01.1yunti.net/api/v1/client/subscribe?token=a4f4afd3c81a694441731c64dbe17d47
-https://569cdn.1010520.click/api/v1/client/subscribe?token=781d7319768d475772927420bc2a0274
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
-https://jixingnetwork.sbs/api/v1/client/subscribe?token=bb6c1f203b9e3e565125f3b78c611794
-https://mo.mojieurl.com/api/v1/client/subscribe?token=9ad15bbfc9b8dc881009a125f14f22aa
-https://pqjc.site/api/v1/client/subscribe?token=efffc74cd3815fad0d7a0584ca04595c&amp;flag=meta
-https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=f97e106e0ffd3eddb203e1fd21acfb7b
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://www.kuaidog008.top/api/v1/client/subscribe?token=69ed690baf0cf73b4d2a2017c680fca6
+https://mc.jiedianxielou.workers.dev
+https://dzpd.jiedianxielou.workers.dev/?clash=1
+https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
+https://pqjc.site/api/v1/client/subscribe?token=35ed5ecc542b4059f3eaae4a89fae3e3
+https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=1356f5110c60f1e8823a0962af290c72
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
+https://www.kuaidog008.top/api/v1/client/subscribe?token=daf0a00c2fb6f609d816597f4c2bda51
