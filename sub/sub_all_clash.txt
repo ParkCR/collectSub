@@ -1,5 +1,6 @@
-http://1.1596666.xyz/api/v1/client/subscribe?token=ba7b1ba7d530350c25f13932267d272a
-https://lianjia.me/api/v1/client/subscribe?token=6b4570912a99d0cbbd4abf75df28e9bd
+http://6bsub.zhunchuanpb.com/api/v1/client/subscribe?token=16023278f7dd0a98aa927bf2648b6a7c
+https://dzpd.jiedianxielou.workers.dev/?clash=1
 https://mc.jiedianxielou.workers.dev
-https://pqjc.site/api/v1/client/subscribe?token=7bc7388abe016ed16833f8100a9c44bf
-https://subone.xyjc.xyz/api/xyjcxyz?token=83f1f555bcc6e2882f8128fa21d6e239&amp;flag=clash
+https://pqjc.site/api/v1/client/subscribe?token=c7b3119f24ab1aff3dced283d63cd732&amp;flag=meta
+https://sub.xn--9kqt24a0kz.com/xiaomi?token=a72ae153e4487efa8644de399af1831e
+https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
