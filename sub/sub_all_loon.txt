@@ -1,7 +1,7 @@
+https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=d6681ca8e218af8f2ae0699e542e419c#Fastsoks
-https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
-http://1.1596666.xyz/api/v1/client/subscribe?token=1dec5121c95e504f667efe2705e0b1ff
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=aa997fc3d60f190eb00e4ed89528ca3a
+https://vyyy.vyunyunnode.top/api/v1/client/subscribe?token=56183160241c6711628c210b6bf4c508
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
