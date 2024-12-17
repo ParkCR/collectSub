@@ -1,10 +1,5 @@
 http://1.1596666.xyz/api/v1/client/subscribe?token=1dec5121c95e504f667efe2705e0b1ff
-https://569cdn.1010520.click/api/v1/client/subscribe?token=781d7319768d475772927420bc2a0274
-https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com/api/v1/client/subscribe?token=9f94bdaabe3a18cbf142101e29f451df
-https://mc.jiedianxielou.workers.dev
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://pqjc.site/api/v1/client/subscribe?token=3a7b03ae2964652eedc6afab23a4a86c
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
-https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
+http://1.1598888.xyz/api/v1/client/subscribe?token=1dec5121c95e504f667efe2705e0b1ff
+https://awacloud.online/api/v1/client/subscribe?token=b2729693ba778553f104da87351a59cf
+https://sub4.yunanyun.xyz/api/v1/client/subscribe?token=f8cef268761c09cc7e52cd1ea9d8ff27
+https://xn--fhqu06a8m1asto.icu/linju?token=8c19a12038acd6d7ca190e5739f5446a
