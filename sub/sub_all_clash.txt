@@ -1,12 +1,4 @@
 http://1.1596666.xyz/api/v1/client/subscribe?token=6de50127188bebfe62e3b5565097cc88
-https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
-https://api.xinyo.vip/api/v1/client/subscribe?token=32766ad77e22239683fc3b9e2a06f4bd
-https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
-https://hongxingdl.love/hxvip?token=2c504e60290c18f8f366a9a38122f449
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
-https://l.db-link01.top/link/mcRDCTAfHQXPjJhu?list=shadowrocket
-https://pqjc.site/api/v1/client/subscribe?token=464bd3fc2f54fa36d04914b5e6a8669d&amp;flag=meta
-https://s.33y.run/v3/subscr?id=0ba4a24015864a54929c26389c8a4111
-https://sub.xinyo.vip/api/v1/client/subscribe?token=afab256888ae6487f2287d22b21cb779
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=aa997fc3d60f190eb00e4ed89528ca3a
-https://xn--fhqu06a8m1asto.icu/linju?token=361cff585b1a865e8bf70effc062e194&amp;flag=meta
+https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
+http://jjz.31465.cfd/api/v1/client/subscribe?token=4c55b1a88f0dd170cf89573cf9ba65be
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
