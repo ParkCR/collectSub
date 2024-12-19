@@ -1,6 +1,5 @@
-https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=09d09540cc33b58f29a55a0fe686d6a6
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
-http://113.31.116.212:13800/api/v1/client/subscribe?token=b5d84c66256755e551704d05600ada67
-https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=5d8d7e20b02946587c9db997b91e3fcc
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
+https://ss.hxcq.cc/api/v1/client/subscribe?token=fb9bb47917afa2bfa7a0367463d6dc90
