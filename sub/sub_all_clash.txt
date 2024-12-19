@@ -1,9 +1,4 @@
-https://api.xinyo.vip/api/v1/client/subscribe?token=731485d80bbbde226e16ffac57a57554
-https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
-https://node.yifang02.men/link/ryh0DwsGEWclH26m?sub=4
-https://pqjc.site/api/v1/client/subscribe?token=5d5da3b602584a2760827e7fd0fd34e7
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
-https://vot.278986.xyz/api/v1/client/subscribe?token=5596c41f1db48da17b8271aa6975016b
+http://1.1598888.xyz/api/v1/client/subscribe?token=e2c8421cd8543cd904f255fbef4490cd
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://sub.xinyo.vip/api/v1/client/subscribe?token=3378f3d5f9ab4d07d898ecb9132546a7
 https://submit.xz61.cn:23443/api/v1/client/subscribe?token=aa997fc3d60f190eb00e4ed89528ca3a
-https://xn--fhqu06a8m1asto.icu/linju?token=361cff585b1a865e8bf70effc062e194&amp;flag=meta
