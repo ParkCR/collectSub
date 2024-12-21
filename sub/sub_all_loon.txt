@@ -1,5 +1,6 @@
 https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=09d09540cc33b58f29a55a0fe686d6a6
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://mc.jiedianxielou.workers.dev
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://vt.louwangzhiyu.xyz/api/v1/client/subscribe?token=15af0f3751d9f46e6d26b79972adf3f4
+https://ss.81dlg.com/dy/ss?token=c0c344484f2e4643cd72e7e438cdb5ad
