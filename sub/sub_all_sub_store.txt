@@ -26,7 +26,6 @@ https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87
 https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
 https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
 https://kcsub.vip/link/U3q6DvpKNpIHVeOi?clash=1
-http://g3i.buzz/v3/subscr?id=0998cfcf655b4e618b3a267fd3176a7a
 https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
 https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
@@ -56,7 +55,6 @@ https://52daishu.uk/api/v1/client/subscribe?token=385cf08c8b1c28acf014ff07f5e9ac
 https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
 https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc&amp;flag=meta
 https://suba.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
-https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=8174d6b23b52a904b276a7a545370e1b
 http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=db8f691dbae4050ab22e5fe68351befb&amp;flag=clash
 https://s1.byte33.com/api/v1/client/subscribe?token=7d2e38c590841973fed71ac88d086b47
