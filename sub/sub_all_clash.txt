@@ -1,8 +1,7 @@
 http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
-https://api-zz.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=3df39719aadc30954859a312a7715447
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
-https://cloudfisher.net/jsk34?token=357b5b436ac0b92e9649b964bf0e7a68
-https://getafreenode.com/subscribe/?uuid=5af5e263-f03e-4329-a4c5-9aac626efdc2
-https://mc.jiedianxielou.workers.dev/
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://sub.yslink.cc/api/v1/client/subscribe?token=c9247b94038cf17070932b40bef7509b
+https://pqjc.site/api/v1/client/subscribe?token=7bc7388abe016ed16833f8100a9c44bf
+https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzl0dE04ODdacUFzOTlrTU04RGtOWk0vRUZzMGNUYWdTN0NoZ1pCVkR4ZnRpbW1iWmZDM2wvd3RVeFY3ekM4aHRwNmhIS0UrYkFhQlRHY1NBZWdxYnlEVkNlK2lpRW5aZ1M3RWN0Y1VvVT0
+https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=7b24ad52c9899bca56b040b42b542c4d
+https://569cdn.1010520.click/api/v1/client/subscribe?token=2af75f7c27dfa0e5aa175c7c64c01f28
+https://user.1vpn.sbs/api/v1/client/subscribe?token=6f5241982cdfdc7dbe0bbcc381e8b7da
+https://www.kuaidog008.top/api/v1/client/subscribe?token=886d39f2b08d7d2a7a2b478602bf52ce
