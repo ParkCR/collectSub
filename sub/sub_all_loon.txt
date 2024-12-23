@@ -1,4 +1,4 @@
-https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://ss.81dlg.com/dy/ss?token=c0c344484f2e4643cd72e7e438cdb5ad
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
+https://suba.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
