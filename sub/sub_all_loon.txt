@@ -1,6 +1,5 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=84addb61c3a2639f5a2fa219771e6e9d
 https://mc.jiedianxielou.workers.dev
-https://service-bmp1m9zg-1312645837.nj.apigw.tencentcs.com/api/v1/client/subscribe?token=5e4b06f23d62530a8f713ecd2f9ea2a5
-https://vt.louwangzhiyu.xyz/api/v1/client/subscribe?token=15af0f3751d9f46e6d26b79972adf3f4
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://huaxia.tcekx.cn/huaxia/max?token=b53d1eb5a3aea38b774f1ded63d0f121
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://wow.dogss-host.store/api/v1/client/subscribe?token=8a4046ec94219180a76680b681f254e6
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
