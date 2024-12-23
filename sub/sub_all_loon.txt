@@ -1,6 +1,5 @@
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
-https://ch.cukug.website/api/v1/client/subscribe?token=532b5378b3a92070cee1f6aa9cd6f577
-https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
-http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
