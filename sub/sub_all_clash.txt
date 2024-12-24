@@ -1,7 +1,5 @@
-http://1.1598888.xyz/api/v1/client/subscribe?token=e2c8421cd8543cd904f255fbef4490cd#subscribe?token=e2c8421cd8543cd904f255fbef4490cd
-http://gbtgurl01.org/api/v1/client/subscribe?token=36e8a67632a8d0f0c0eea58b099a0826
-https://api.xinyo.vip/api/v1/client/subscribe?token=b0e5f918cf3c088dcfa65bf1f0a40ba1
-https://jilu.uuvpn.xyz/api/v1/client/subscribe?token=c9fd509e51f08bec3182c29056e28772
-https://pqjc.site/api/v1/client/subscribe?token=5821a64c83746e82681f1317c3825235&amp;flag=meta
-https://pqjc.site/api/v1/client/subscribe?token=d66c5de5dddd6e0b44ff6c8382a411b6&amp;flag=meta
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
+https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
+https://pqjc.site/api/v1/client/subscribe?token=464bd3fc2f54fa36d04914b5e6a8669d&amp;flag=meta
+https://sub.yslink.cc/api/v1/client/subscribe?token=c9247b94038cf17070932b40bef7509b
