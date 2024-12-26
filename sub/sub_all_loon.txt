@@ -1,3 +1,3 @@
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
-https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+http://6bsub.zhunchuanpb.com/api/v1/client/subscribe?token=16023278f7dd0a98aa927bf2648b6a7c
+http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
