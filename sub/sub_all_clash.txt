@@ -1,4 +1,7 @@
-http://1.1598888.xyz/api/v1/client/subscribe?token=e2c8421cd8543cd904f255fbef4490cd
-https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=5d8d7e20b02946587c9db997b91e3fcc
-https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
-https://www.dabai.in/link/qrWBdYEZPKr61KkM?list=shadowrocket
+https://config.huojian111.com/link/57BXs2kcnyMZ1sJ3?sub=3
+https://api.touhou.center/sub/a817a5effa9865af/clash
+https://mro5n.no-mad-world.club/link/5sXDluQT5cSVGrSF?clash=3&amp;extend=1
+https://pqjc.site/api/v1/client/subscribe?token=c7b3119f24ab1aff3dced283d63cd732&amp;flag=meta
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://www.dabai.in/link/CBD3dq3z8U1eSIwD?list=shadowrocket
