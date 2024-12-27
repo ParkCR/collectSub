@@ -1,4 +1,4 @@
-http://jjz.31465.cfd/api/v1/client/subscribe?token=4c55b1a88f0dd170cf89573cf9ba65be
-https://www.antlink.cc/api/v1/client/subscribe?token=cef0a82eedec7c8db2bb2d59f0e69109
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
+https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
+https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
