@@ -1,7 +1,0 @@
-https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=db8f691dbae4050ab22e5fe68351befb&amp;flag=clash
-https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=dc651326e2ce650def8fc3772d7187c5
-https://dy.kuailejc.xyz/api/v1/client/subscribe?token=707cfdd1244ebb0dd75bf2cb48fe3610
-https://l.db-link01.top/link/mcRDCTAfHQXPjJhu?list=shadowrocket
-https://1321078938-11mmjf3qkb-hk.scf.tencentcs.com/api/v1/client/subscribe?token=cb1270a6aa0980c4de79b49aad8098f7
-https://www.catssr.one/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
