@@ -1,5 +1,3 @@
-https://api.ssrsub.com/api/v1/client/subscribe?token=22c168a0eb606bdd60c7530f152e15b0
-https://hongxingdl.com/hxvip?token=b2577ee788cce083e4b5c65e7ada95cf
-http://www.fanqiang88.top/fanqiang88?token=29c584386a795b163c00cf3c21f0be58
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
-https://study.jaycloud11111.top/study?token=5d89a3256b06717d01ab5d732e2a0e45
+https://1321078938-11mmjf3qkb-hk.scf.tencentcs.com/api/v1/client/subscribe?token=cb1270a6aa0980c4de79b49aad8098f7
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
