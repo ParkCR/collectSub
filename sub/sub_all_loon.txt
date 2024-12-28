@@ -1,5 +1,5 @@
-https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
+https://api.ssrsub.com/api/v1/client/subscribe?token=22c168a0eb606bdd60c7530f152e15b0
 https://hongxingdl.com/hxvip?token=b2577ee788cce083e4b5c65e7ada95cf
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+http://www.fanqiang88.top/fanqiang88?token=29c584386a795b163c00cf3c21f0be58
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://study.jaycloud11111.top/study?token=5d89a3256b06717d01ab5d732e2a0e45
